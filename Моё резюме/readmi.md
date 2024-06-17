@@ -1,11 +1,17 @@
 ![alt text](image.png)
 
 Артём Цмыг
+
 Телефон: +7(981)919 82-65
+
 Email: artemtsmyg@yandex.ru
+
 Telegram: @ArtemTsmyg
+
 Город проживания: Санкт-Петербург
+
 Дата Рождения: 22.09.1989 
+
 GitHub: https://github.com/artemtsmyg/DZ.Spring.sem4.git
 
 
